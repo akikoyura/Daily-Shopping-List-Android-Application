@@ -13,3 +13,6 @@ IDE: Android Studio
 ![main-image](https://i.imgur.com/z9oJxs5.png)
 
 ![add-image](https://i.imgur.com/PgmGboQ.png)
+
+![add-image](https://i.imgur.com/wDbEVi1.png)
+![add-image](https://i.imgur.com/jH7u3ci.png)
