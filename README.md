@@ -4,7 +4,7 @@
 project was created for the purpose of managing daily Shopping List
 
 # Technologies
-Android, Firebase
+Android, Firebase\
 IDE: Android Studio
 
 # Screenshot
